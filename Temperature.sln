@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Temperature", "Temperature\Temperature.pyproj", "{94ADA3AC-4C57-4DCE-9A60-23B0485C9B02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94ADA3AC-4C57-4DCE-9A60-23B0485C9B02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94ADA3AC-4C57-4DCE-9A60-23B0485C9B02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FE12E86-0334-4923-917B-FB883FC5F023}
+	EndGlobalSection
+EndGlobal
